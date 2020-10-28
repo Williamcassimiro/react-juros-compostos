@@ -1,0 +1,19 @@
+.flexRow {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.formValue {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 100%;
+  margin: 10px;
+}
+
+.inputValue {
+  margin: 30px;
+  width: 250px;
+}

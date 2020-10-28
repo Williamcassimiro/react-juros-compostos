@@ -1,0 +1,46 @@
+.installment {
+  margin: 15px;
+}
+
+.installments {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+.idPlot {
+  font-weight: bold;
+  align-self: center;
+}
+
+.card {
+  border: 2px solid lightblue;
+  width: 180px;
+  border-radius: 15px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+}
+
+.values {
+  margin: 0 10px;
+  align-items: center;
+}
+
+.positiveValue {
+  color: green;
+  font-weight: 650;
+}
+
+.negativeValue {
+  color: red;
+  font-weight: 650;
+}
+
+.positivePercentage {
+  color: blue;
+}
+
+.negativePercentage {
+  color: orangered;
+}
